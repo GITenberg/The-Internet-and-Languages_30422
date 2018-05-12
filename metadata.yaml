@@ -1,0 +1,26 @@
+_repo: The-Internet-and-Languages_30422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lebert, Marie
+    gutenberg_agent_id: '32388'
+    url: http://www.gutenberg.org/2009/agents/32388
+description: ''
+gutenberg_issued: '2009-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30422'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'TK'
+- !lcsh 'World Wide Web'
+- !lcsh 'Internet'
+- !lcsh 'Language and languages'
+title: The Internet and Languages [around the year 2000]
+url: http://www.gutenberg.org/ebooks/30422
